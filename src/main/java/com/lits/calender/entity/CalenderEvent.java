@@ -15,5 +15,6 @@ public class CalenderEvent {
 	private String name; // Birthday person name / Meeting subject
 	private LocalDate eventDate; // Single date
 	private String description;
+	private boolean recurring;
 
 }
